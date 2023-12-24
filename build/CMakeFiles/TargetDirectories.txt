@@ -1,0 +1,3 @@
+/Users/sallyli/Documents/MTH9815/tradingsystem/build/CMakeFiles/tradingsystem.dir
+/Users/sallyli/Documents/MTH9815/tradingsystem/build/CMakeFiles/edit_cache.dir
+/Users/sallyli/Documents/MTH9815/tradingsystem/build/CMakeFiles/rebuild_cache.dir
